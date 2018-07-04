@@ -1,2 +1,4 @@
 # hello-world
-intro assignment
+
+Hi Everyone!
+My name is Nayeli. I'm new to GitHub and look forward to learing more about it!
