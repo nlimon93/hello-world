@@ -1,4 +1,15 @@
 # hello-world
 
-Hi Everyone!
-My name is Nayeli. I'm new to GitHub and look forward to learing more about it!
+//code by Nayeli Garcia-Limon
+#include <iostream>
+ 
+using namespace std;
+  
+int main()
+{
+
+cout << "Hello World!" << endl;
+cout << "My name is Nayeli Garcia-Limon" << endl:
+
+return 0;
+}
